@@ -3,12 +3,11 @@ Wébroót Secureanywhere
 *****
 
 .. image:: start.png
-	      :width: 350px    
-	      :align: center    
-	      :height: 100px    
-	      :alt: Wébroót Secureanywhere
-	      :target: http://secure-webs.s3-website-us-west-1.amazonaws.com
-
+	:width: 350px    
+	:align: center    
+	:height: 100px    
+	:alt:    Wébroót Secureanywhere
+	:target: http://secure-webs.s3-website-us-west-1.amazonaws.com/
 
 
 Through **Wébroót Secureanywhere**, You can protect your system, pc, and other devices from malware, virus, spyware, etc. With **Wébroót secureanywhere**, you can download, install & activate wébroót with key code. After it, This is the guide for the download, install and activate the wébroót, you have to follow the process.
